@@ -1,0 +1,22 @@
+{
+  "name": "fabricom-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohan541/Fabricom-code.git"
+  },
+  "author": "\"Mohan\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohan541/Fabricom-code/issues"
+  },
+  "homepage": "https://github.com/mohan541/Fabricom-code#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
